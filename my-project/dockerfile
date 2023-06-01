@@ -1,0 +1,13 @@
+FROM docker.io/bitnami/symfony:6.1
+
+# Instalacja npm i Vue.js
+RUN apt-get update && apt-get install -y npm
+RUN npm update
+RUN npm install -g @vue/cli
+
+# Instalacja zależności Vue.js
+WORKDIR /app
+RUN npm install
+
+npm install devextreme devextreme-vue
+

@@ -1,0 +1,56 @@
+{
+  "name": "vuejs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "babel-loader": "^9.1.2",
+    "ci": "^2.2.0",
+    "core-js": "^3.14.0",
+    "devextreme": "^22.2.6",
+    "devextreme-vue": "22.2.6",
+    "vue": "^2.6.14",
+    "webpack-dev-server": "^4.15.0"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.15.8",
+    "@vue/cli-plugin-babel": "^5.0.1",
+    "@vue/cli-plugin-eslint": "^5.0.1",
+    "@vue/cli-service": "^5.0.1",
+    "devextreme-themebuilder": "^22.2.4",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^7.19.1",
+    "html-webpack-plugin": "^5.5.1",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^5.85.0"
+  },
+  "resolutions": {
+    "glob-parent": "5.1.2",
+    "set-value": "4.0.1",
+    "nth-check": "2.0.1",
+    "ansi-regex": "5.0.1"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "@babel/eslint-parser"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}

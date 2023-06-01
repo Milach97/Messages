@@ -1,0 +1,80 @@
+ID: 01886bbe-a186-7a3c-b084-c1f957a26e08
+Treść: wiadomosc1
+Data utworzenia: 2023-05-30 10:20:35
+
+ID: 01886bc2-186b-7043-9798-34ff41f0b9f4
+Sender: sender2
+Treść: wiadomosc2
+Data utworzenia: 2023-05-30 10:24:22
+
+ID: 01886bc2-8aa1-7ebd-bbce-c820e93fc8b7
+Sender: 
+Treść: wiadomosc2
+Data utworzenia: 2023-05-30 10:24:51
+
+ID: 01886bc3-66ef-7f7f-a434-d03be7dd054f\Nadawca: sender3
+Treść: wiadomosc3
+Data utworzenia: 2023-05-30 10:25:48
+
+ID: 01886bc4-5ad8-7b9d-97e7-93b22c56a4da
+Nadawca: sender4
+Treść: wiadomosc4
+Data utworzenia: 2023-05-30 10:26:50
+
+ID: 01887605-91a0-7b2e-ad3f-2e5505a7b806
+Nadawca: sender4
+Treść: wiadomosc4
+Data utworzenia: 2023-06-01 10:14:16
+
+ID: 01887614-dca4-7c5f-83d5-28e02b1e2247
+Nadawca: Wojtek
+Treść: wiaodmosc testowa 
+Data utworzenia: 2023-06-01 10:30:58
+
+ID: 01887654-4298-74b7-b041-ca1c1c07d9c1
+Nadawca: Magda
+Treść: wiaodmosc testowa5 
+Data utworzenia: 2023-06-01 11:40:13
+
+ID: 0188767b-fec8-73f6-8e9a-6dae9a590c3d
+Nadawca: aMagda
+Treść: wiaodmosc testowa5 
+Data utworzenia: 2023-06-01 12:23:37
+
+ID: 0188767c-0df7-7608-8afa-ef9377e1aeba
+Nadawca: zMagda
+Treść: wiaodmosc testowa5 
+Data utworzenia: 2023-06-01 12:23:41
+
+ID: 01887701-86be-7cb5-a47d-4f4e5cbe66b2
+Nadawca: www
+Treść: www
+Data utworzenia: 2023-06-01 14:49:28
+
+ID: 0188771a-6f8e-718a-b5c4-47179efe660a
+Nadawca: test
+Treść: test vueeee
+
+Data utworzenia: 2023-06-01 15:16:41
+
+ID: 0188771f-5f10-7020-9d21-6e62d93162bb
+Nadawca: ee
+Treść: ee
+Data utworzenia: 2023-06-01 15:22:04
+
+ID: 01887724-4a5a-7411-87b5-4f57eafe6f18
+Nadawca: test
+Treść: test
+Data utworzenia: 2023-06-01 15:27:27
+
+ID: 01887738-2abf-74dd-9ef2-dcef38efe904
+Nadawca: test ostat
+Treść: tratata
+Data utworzenia: 2023-06-01 15:49:09
+
+ID: 0188773d-56a5-7c3a-8a77-60fb58c7d783
+Nadawca: Magda
+Treść: poprr
+
+Data utworzenia: 2023-06-01 15:54:48
+
